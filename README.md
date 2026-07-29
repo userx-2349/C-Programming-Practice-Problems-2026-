@@ -17,18 +17,4 @@ This repository tracks my daily coding progress as I revisit C programming from 
 
 ---
 
-## 📂 Learning Path & Structure
-The repository is organized progressively as I move from basic concepts to advanced implementations:
 
-* `01-basics/` - Data types, operators, conditionals, loops, I/O
-* `02-functions-arrays/` - Scope, recursion, multi-dimensional arrays, strings
-* `03-pointers-memory/` - Pointer arithmetic, dynamic memory, structs
-* `04-data-structures/` - Custom linked lists, stacks, queues, trees
-* `05-mini-projects/` - Terminal utilities and small programs
-
----
-
-## 🛠️ Environment & Tools
-* **Language:** C (C11 / C17 standard)
-* **Compiler:** GCC / Clang
-* **Build System:** Make / CMake
