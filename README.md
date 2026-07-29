@@ -16,5 +16,3 @@ This repository tracks my daily coding progress as I revisit C programming from 
 * **Clean Code:** Write idiomatic, readable, and leak-free C code.
 
 ---
-
-
