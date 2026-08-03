@@ -1,4 +1,5 @@
 // WAP to check a number is even or not
+
 #include <stdio.h>
 void main()
 {
