@@ -23,8 +23,6 @@ void main()
         printf("%d is greatest", a);
     else if (b > c)
         printf("%d is greatest", b);
-    // else if (c > b && c > a)
-    //    printf("%d is greatest", c);
     else
         printf("%d is greatest", c);
 }
